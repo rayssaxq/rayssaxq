@@ -25,7 +25,7 @@ Amo criar, explorar novas ideias e transformar desafios em oportunidades.
 ---
 
 ## 🌟 Redes Sociais 
-🎨 Estou sempre aberta para trocar ideias e criar conexões.
+🎨 Estou sempre aberta para trocar ideias e criar conexões
 <div> 
   <a href="www.linkedin.com/in/rayssaxq" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://souinteli.slack.com/team/U087USAPJBD" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
