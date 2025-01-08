@@ -58,8 +58,46 @@ Aqui estão algumas ideias que estou explorando:
 
 ## 🏆 "Seja criativo, seja único!"
 ✨ Este perfil foi feito com cuidado, criatividade e um toque de animação para mostrar um pouquinho de quem sou! ✨
+![Olá, eu sou a Rayssa!](https://readme-typing-svg.herokuapp.com?color=FF69B4&size=30&lines=Seja+bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o+%E2%9C%A8;Apaixonada+por+tecnologia+e+inova%C3%A7%C3%A3o!)
 
--->
+---
+
+## 🌸 Sobre mim 🌸
+
+✨ Oi, eu sou a **Rayssa**! Tenho 18 anos e sou de Belo Horizonte, MG. Atualmente, sou estudante de **Sistemas de Informação no Inteli**. Sou apaixonada por **tecnologia**, **design** e por aprender coisas novas! Quando não estou programando, adoro assistir séries, estar com a família e explorar novos desafios. 
+
+
+
+![Olá, eu sou a Rayssa!](https://readme-typing-svg.herokuapp.com?color=FF69B4&size=30&center=true&vCenter=true&lines=Olá%2C+eu+sou+a+Rayssa!+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+GitHub!+%E2%9C%A8)
+
+---
+
+## 🌸 Sobre mim 🌸
+
+✨ Olá, eu sou a **Rayssa**! Tenho 18 anos e sou de Belo Horizonte, MG. Atualmente, sou estudante de **Sistemas de Informação no Inteli**. Amo criar, explorar novas ideias e transformar desafios em oportunidades.
+
+💖 Peculiaridade: Todos os anos faço um bullet journal com memórias e textos ao longo do meu ano 🎶
+
+---
+
+## 🖌️ Meu Estilo 💕
+
+<img src="https://i.pinimg.com/originals/6a/8e/82/6a8e82b8dd8be8e765646bdefa8071cd.jpg" alt="Ilustração Rosa" width="300" align="right">
+
+💡 Sou uma pessoa curiosa e criativa, sempre em busca de deixar minha marca única em tudo o que faço.
+🌈 Gosto de transformar ideias em algo visual e especial.
+
+---
+
+## 🤝 Meu Buddy
+
+✨ Um agradecimento especial ao meu **buddy incrível**! 
+🔗 Conheça o GitHub dele(a): [Inteli Buddy](https://github.com).
+
+---
+
+## 🌟 Redes Sociais 
+🎨 Sempre aberta para trocar ideias e criar conexões.
 <div> 
   <a href="www.linkedin.com/in/rayssaxq" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://souinteli.slack.com/team/U087USAPJBD" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
@@ -73,4 +111,13 @@ Aqui estão algumas ideias que estou explorando:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayssaxq/rayssaxq/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rayssaxq/rayssaxq/output/github-contribution-grid-snake.svg">
 </picture>
-rayssaxq/.github/workflows/cobrinha.yml
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
+---
+
+### ✨ "Criar é conectar sonhos com realidade!" ✨
+
