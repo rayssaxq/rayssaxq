@@ -20,7 +20,7 @@ Amo criar, explorar novas ideias e transformar desafios em oportunidades.
 
 ✨ Um agradecimento especial ao meu **buddy**! Ansiosa pelo ano que vem pela frente. 
 
-🔗 Conheça o GitHub dele(a): claramohammad(https://github.com).
+🔗 Conheça o GitHub dele(a): [claramohammad](https://github.com/claramohammad)
 
 ---
 
