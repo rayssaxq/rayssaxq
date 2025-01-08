@@ -16,3 +16,5 @@ Olá, eu sou a Rayssa 👋
   <a href = "rayssa.silva@sou.inteli.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+![image](https://github.com/user-attachments/assets/7f1036a3-f26f-463d-a664-1da470fef647)
