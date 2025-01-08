@@ -35,3 +35,8 @@ Amo criar, explorar novas ideias e transformar desafios em oportunidades.
 
 ### ✨ "Criar é conectar sonhos com realidade!" ✨
 
+### 🐍 Snake Game (Contribuições do ano)
+
+![Snake animation](https://github.com/rayssaxq/rayssaxq/blob/output/github-contribution-grid-snake.svg)
+
+
