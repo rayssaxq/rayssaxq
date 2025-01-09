@@ -32,6 +32,7 @@ Amo criar, explorar novas ideias e transformar desafios em oportunidades.
   <a href="https://souinteli.slack.com/team/U087USAPJBD" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rayssaxq?igsh=ZHd0cGJjOHd3aGk2&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "rayssa.silva@sou.inteli.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
   
 ![snake gif](https://github.com/rayssaxq/rayssaxq/blob/output/github-contribution-grid-snake.gif)
 
