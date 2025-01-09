@@ -1,6 +1,5 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=30&center=true&vCenter=true&lines=Ol%C3%A1,+eu+sou+a+Rayssa!!!" alt="Typing Animation" />
 
-![snake gif](https://github.com/rayssaxq/rayssaxq/blob/output/github-contribution-grid-snake.gif)
 
 ## 🌸 Sobre mim 🌸
 
@@ -34,6 +33,8 @@ Amo criar, explorar novas ideias e transformar desafios em oportunidades.
   <a href="https://www.instagram.com/rayssaxq?igsh=ZHd0cGJjOHd3aGk2&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "rayssa.silva@sou.inteli.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
+![snake gif](https://github.com/rayssaxq/rayssaxq/blob/output/github-contribution-grid-snake.gif)
+
 
 ### ✨ "Criar é conectar sonhos com realidade!" ✨
 
