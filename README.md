@@ -35,11 +35,12 @@ Amo criar, explorar novas ideias e transformar desafios em oportunidades.
 
   
 <picture>
-<source mdeia="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayssaxq/rayssaxq/output/github-contribution-grid-snake-dark.svg">
-<source mdeia="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayssaxq/rayssaxq/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayssaxq/rayssaxq/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayssaxq/rayssaxq/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rayssaxq/rayssaxq/github-contribution-grid-snake.svg>
     <picture>
     <br><br>
+    
 ### ✨ "Criar é conectar sonhos com realidade!" ✨
 
 
