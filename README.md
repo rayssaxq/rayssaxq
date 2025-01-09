@@ -5,7 +5,7 @@
 ✨ Olá, eu sou a **Rayssa**! Tenho 18 anos e sou de Belo Horizonte, MG. Atualmente, sou estudante de **Sistemas de Informação no Inteli**. 
 Amo criar, explorar novas ideias e transformar desafios em oportunidades.
 
-💖 Peculiaridade: Todos os anos faço um bullet journal com memórias e textos ao longo do meu ano 📝✨
+💖 Peculiaridade: Todos os anos crio um bullet journal onde registro memórias, textos e momentos marcantes. É meu espaço criativo, onde guardo histórias, ideias e até pequenos desenhos. Cada página é um reflexo das fases do meu ano, e adoro revisitar tudo depois! 📝✨
 
 ---
 
