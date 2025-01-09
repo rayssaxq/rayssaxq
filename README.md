@@ -1,5 +1,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=30&center=true&vCenter=true&lines=Ol%C3%A1,+eu+sou+a+Rayssa!!!" alt="Typing Animation" />
 
+![snake gif](https://github.com/rayssaxq/rayssaxq/blob/output/github-contribution-grid-snake.gif)
+
 ## 🌸 Sobre mim 🌸
 
 ✨ Olá, eu sou a **Rayssa**! Tenho 18 anos e sou de Belo Horizonte, MG. Atualmente, sou estudante de **Sistemas de Informação no Inteli**. 
